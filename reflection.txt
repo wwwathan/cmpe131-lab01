@@ -1,1 +1,1 @@
-This is my reflection
+Using branches is powerful and safe for teams of software engineers to collaborate on a single project because it allows them to work independently on specific parts of the project without ruining or changing others' code. It can prevent problems such as accidental changes to code and being able to undo your code if there may have been a bug introduced.
